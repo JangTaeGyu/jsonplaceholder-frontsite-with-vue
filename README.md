@@ -29,8 +29,8 @@ npm install
 - Post
 - Album
 - User
-  - [ ] https://jsonplaceholder.typicode.com/users 호출 하여 User 데이터를 노출 하시오.
-  - [ ] 키워드(이름: username, name)와 일치 하는 User 데이터를 노출 하시오.
-  - [ ] Show Details 클릭해서 Modal 노출 하시오.
-  - [ ] Modal 노출 전 https://jsonplaceholder.typicode.com/users/{user_id} 호출 하여 User 데이터를 조회 하시오.
+  - [x] https://jsonplaceholder.typicode.com/users 호출 하여 User 데이터를 노출 하시오.
+  - [x] 키워드(이름: username, name)와 일치 하는 User 데이터를 노출 하시오.
+  - [x] Show Details 클릭해서 Modal 노출 하시오.
+  - [x] Modal 노출 전 https://jsonplaceholder.typicode.com/users/{user_id} 호출 하여 User 데이터를 조회 하시오.
 
