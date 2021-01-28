@@ -63,7 +63,7 @@ code {
 }
 
 .user-card > img {
-    border-radius: .5rem;
+    /* border-radius: .5rem; */
 }
 
 .user-info { margin-left: 1.5rem; line-height: 1.8rem; }
